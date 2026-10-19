@@ -16,3 +16,4 @@ Carrega os ficheiros e pastas para o repositório mantendo a estrutura. O fichei
 
 Nota: os links externos, o e-mail, o LinkedIn e os documentos PDF devem ser confirmados antes da publicação final.
 # Portofolio
+# Portofolio
